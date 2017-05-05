@@ -27,3 +27,8 @@ git add file
 git commit -m "I made some changes'
 git push origin master
 ```
+
+* You will also need to pull down the changes that others made, you will need to be in a directory in the respository
+```
+git pull origin master
+```
