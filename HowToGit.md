@@ -20,3 +20,10 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 ```
 git clone https://github.com/cthulhuplus/codenight
 ```
+
+* Once you've downloaded the repository you can edit and work on your files.  Once you've made your changes you and add the file to the changes list, commit a comment, and the push the changes back to the shared space.
+``
+git add file
+git commit -m "I made some changes'
+git push origin master
+```
